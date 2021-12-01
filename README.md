@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fomina-ek-nik
 - 👀 I’m interested in many things, not only in IT))
 - 🌱 I’m currently learning QA Automation and improving my English.
-- 💞️ I’m looking to collaborate on ... Nooope, I don't decide yet.
+- 💞️ I’m looking to collaborate on ... Not sure, I don't decide yet.
 - 📫 How to reach me: send me email to fomina.ek.nik@gmail.com.
 
 <!---
